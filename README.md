@@ -1,0 +1,3 @@
+- Hi, my name is eduardo and currently I study python for use in binary options market and things related to the financial market!
+- At the moment python is my passion!
+- I'm studying at Alura, these guys are awesome! so that's it, this is my first time here on Github.
